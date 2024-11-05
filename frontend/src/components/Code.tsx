@@ -18,8 +18,7 @@ const CodeEditor: React.FC<CodeEditorProps> = ({
   const languages = [
     { value: 'javascript', label: 'JavaScript' },
     { value: 'typescript', label: 'TypeScript' },
-    { value: 'html', label: 'HTML' },
-    { value: 'css', label: 'CSS' },
+
     { value: 'json', label: 'JSON' },
     { value: 'python', label: 'Python' },
     { value: 'java', label: 'Java' },
