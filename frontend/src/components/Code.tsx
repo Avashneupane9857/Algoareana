@@ -21,8 +21,6 @@ const CodeEditor: React.FC<CodeEditorProps> = ({
 
     { value: 'json', label: 'JSON' },
     { value: 'python', label: 'Python' },
-
-    { value: 'java', label: 'Java' },
   ];
 
   const themes = [
