@@ -32,13 +32,7 @@ export const languages = [
       label: "Java (OpenJDK 13.0.1)",
       value: "java",
     },
-  
-    {
-      id: 78,
-      name: "Kotlin (1.3.70)",
-      label: "Kotlin (1.3.70)",
-      value: "kotlin",
-    },
+ 
   
     {
       id: 68,
